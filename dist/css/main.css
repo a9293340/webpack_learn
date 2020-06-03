@@ -1,0 +1,9 @@
+body {
+  background-color: green; }
+  body h1 {
+    font-size: 80px;
+    color: white; }
+  body h2 {
+    font-size: 40px;
+    color: red; }
+

@@ -3,8 +3,10 @@
 // webpack -v 開發模式
 
 // 引入css
-import "./style.css";
-import "./header.css";
+// import "./style.css";
+// import "./header.css";
+import "./sass/style.scss";
+
 // 呼叫js
 var obj = require('./cal');
 
